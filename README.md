@@ -2,7 +2,7 @@
 
 ## Sobre Transkud Software
 
-El proyecto busca implementar una APP para gestionar vehiculos & conductores en tiempo real.
+El proyecto busca implementar una APP para gestionar vehiculos & conductores en tiempo real, dentro de una empresa de Transporte Intermunicipal.
 
 Transkud Software en adelante Transkud, se esta desarrollando en el Framework Laravel, ya que nos proporciona una sintaxis elegante y expresiva.
 
@@ -34,10 +34,13 @@ Transkud Software en adelante Transkud, se esta desarrollando en el Framework La
     <img src="https://img.shields.io/badge/Lenguaje - PHP v8.2.12-blue">
 </p>
 <p align="left">
-    <img src="https://img.shields.io/badge/Framework-Laravel v11.23.5 -red">
+    <img src="https://img.shields.io/badge/Backend Framework-Laravel v11.23.5 -red">
 </p>
 <p align="left">
-    <img src="https://img.shields.io/badge/Laravel Jetstream 4.2 - Livewire 3.4-blue">
+    <img src="https://img.shields.io/badge/Frontend- React Native-red">
+</p>
+<p align="left">
+    <img src="https://img.shields.io/badge/Autenticación-Jetstream 5.2-green">
 </p>
 <p align="left">
     <img src="https://img.shields.io/badge/Modulo  - -green">
